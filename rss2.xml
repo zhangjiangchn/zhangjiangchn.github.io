@@ -8,8 +8,20 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 18 Mar 2018 14:46:26 GMT</pubDate>
+    <pubDate>Mon, 19 Mar 2018 14:12:02 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>测试文章</title>
+      <link>http://zhangjiangchn.com/2018/03/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <guid>http://zhangjiangchn.com/2018/03/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <pubDate>Mon, 19 Mar 2018 14:06:48 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>http://zhangjiangchn.com/2018/03/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Hello World</title>
